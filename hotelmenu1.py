@@ -1,4 +1,4 @@
-# PYTHON Restaurant Management System
+# PYTHON Café Management System
 
 menu = {
     "espresso": 120,
@@ -16,7 +16,7 @@ menu = {
 order = {}
 
 print("\n" + "=" * 45)
-print("        ☕ WELCOME TO PYTHON RESTAURANT ☕")
+print("        ☕ WELCOME TO SWAAD CAFÉ ☕")
 print("=" * 45)
 
 print("\n📋 MENU")
@@ -60,5 +60,6 @@ print(f"{'GST (5%)':25} : ₹{gst:.2f}")
 print(f"{'Total Amount':25} : ₹{total:.2f}")
 print("-" * 45)
 
-print("\n🙏 Thank you for dining with PYTHON Restaurant!")
+print("\n🙏 Thank you for dining with SWAAD CAFÉ!")
 print("⭐ Visit Again ⭐")
+
